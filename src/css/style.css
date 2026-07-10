@@ -8,13 +8,13 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  padding: 1.333rem;
 }
 
 .container {
-  width: 78.3rem;
-  max-width: 100%;
+  max-width: 78.3rem;
+  width: 100%;
   display: flex;
-  margin: 1.333rem;
 }
 
 .card1{
